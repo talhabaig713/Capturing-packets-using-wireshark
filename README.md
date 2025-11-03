@@ -10,17 +10,20 @@ Select wifi or any oyher option were the packets are moving.
 <img width="829" height="416" alt="2" src="https://github.com/user-attachments/assets/b08174f1-57e5-4abe-9588-bc1d3669bc51" />
 # Step 3: Displaying the packet traffic on the selected network.
 The image shows the process of wireshark capturing the packets.
-<img width="938" height="415" alt="3" src="https://github.com/user-attachments/assets/1187ac1f-e3ef-44fe-b13b-278254b546b4" />
+<img width="1876" height="829" alt="3" src="https://github.com/user-attachments/assets/e7ca58cd-de9a-4432-a8d7-6ddf791f4f60" />
 # additional : Lets ping a website to check the traffic change.
 The example shows we have pinged the youtube.com website so that we send echo packets to that website and see the traffic on the wireshark.
-<img width="821" height="493" alt="4" src="https://github.com/user-attachments/assets/35f17727-38e1-48cf-b961-f6c247a2d99d" />
-<img width="706" height="424" alt="5" src="https://github.com/user-attachments/assets/07fe1537-70d6-4615-a8d1-5fe83121db0c" />
+<img width="706" height="424" alt="5" src="https://github.com/user-attachments/assets/33f57417-e1e1-4941-9c31-dfd1c76e5204" />
+<img width="1797" height="745" alt="6" src="https://github.com/user-attachments/assets/04c20cf8-ec4a-4f25-936b-c9bb18a42f1a" />
 # Step 5 : Filtering the captured packets to have only selected TCP packets.
 Foe example we have selected only TCP:
-<img width="881" height="463" alt="7" src="https://github.com/user-attachments/assets/8880491f-be56-4990-bbe6-a9250347a7c5" />
+<img width="1762" height="925" alt="7" src="https://github.com/user-attachments/assets/7739c9e8-7278-4f50-a45a-fbbeef89b9a0" />
 It shows all the TCP packets sent and recieved
-
-
+# UDP:
+<img width="1755" height="940" alt="8" src="https://github.com/user-attachments/assets/9c9027fd-6493-40a6-9ef7-c080eef26dbe" />
+# HTTP:
+<img width="1705" height="796" alt="9" src="https://github.com/user-attachments/assets/8bda5a92-0f58-43c8-9dab-d9a25d24331f" />
+# WARNING : Never forget to cover or hide your ip address to avoid hacking attacks or ddos attacks on your device while uploading images online.
 
 
 
